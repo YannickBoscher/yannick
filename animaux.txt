@@ -1,8 +1,4 @@
 "Fou à pieds bleus”
 ornithorynque
-<<<<<<< HEAD
 chaise
 
-=======
->>>>>>> parent of 74cb0c2... ajout d'une chaise
-tabouret
